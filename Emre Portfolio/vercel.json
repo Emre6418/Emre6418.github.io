@@ -1,0 +1,8 @@
+﻿{
+  "builds": [
+    {
+      "src": "C:\\Users\\emree\\source\\repos\\Emre Portfolio\\Emre Portfolio\\Emre Portfolio.csproj",
+      "use": "@vercel/static-build"
+    }
+  ]
+}
